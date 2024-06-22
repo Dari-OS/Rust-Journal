@@ -1,3 +1,7 @@
+mod generics;
+use generics::Generic;
+
+
 fn main() {
-    println!("Hello, world!");
+    let test = Generic::<u8>::new(12);
 }
