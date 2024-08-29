@@ -1,6 +1,6 @@
 # Rust Journal
 
-This journal has a growing collection of magic code that is written in Rust
+This journal has a growing collection of magic code and patterns that I found during my journey of mastering Rust
 
 > [!NOTE]
 > This project is inspired by the GitHub repo [Rust Magic Pattern](https://github.com/alexpusch/rust-magic-patterns/).  
