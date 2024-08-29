@@ -1,0 +1,6 @@
+[package]
+name = "accepting-closures-and-other-things"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
