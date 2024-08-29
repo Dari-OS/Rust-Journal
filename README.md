@@ -7,9 +7,9 @@ This journal has a growing collection of magic code that is written in Rust
 > I recommend checking it out!
 
 ## [State Maschines](state-machines/Readme.md)
-One of my favourite coding patters are State Machines.  
+One of __my favourite coding patters__ are __State Machines__.  
 But not just any State Machine. 
-You can implement the State Machine pattern in Rust in such away to have compile time checks at state transitions.  
+You can implement the State Machine pattern in Rust in such away to have __compile time checks at state transitions__.  
 > Sounds __interesting__ huh?
 
 ## [Accepting closure and other thing at the same time!](accepting-closures-and-other-things/Readme.md)  
