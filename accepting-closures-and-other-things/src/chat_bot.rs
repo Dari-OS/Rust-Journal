@@ -5,7 +5,7 @@ pub enum Event {
     UserBan,
     UserJoin,
     UserLeave,
-    Metnion,
+    Mention,
 }
 
 pub trait EventHandler {
