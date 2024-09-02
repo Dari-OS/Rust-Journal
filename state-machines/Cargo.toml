@@ -1,0 +1,15 @@
+[package]
+name = "state-machines"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.40.0", features = ["full"] }
+
+[[bin]]
+name = "server"
+path = "src/example_server.rs"
+
+[[bin]]
+name = "example"
+path = "src/main.rs"
