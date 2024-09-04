@@ -3,7 +3,7 @@
 
 Let's break down the magic behind this.
 
-## Scenarion  
+## Scenario
 Let's imagine we are coding a Lib for creating chat bots on a Chat Platform. We want the user to be able to listen to incoming events *(Messages, Mentions, Bans, ...)*.
  
 ## Desired outcome
