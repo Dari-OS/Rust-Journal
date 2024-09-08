@@ -138,8 +138,8 @@ We just use the inner _(`u8`)_ values and **add** them together.
     00000010
     00000001
     00010000
-    ---------   <-- Or Operator
-    00010011    <-- All u8 values above got added together
+    ---------   <-- Or Operator 
+    00010011    <-- All u8 values above got added together. Reslt of 00000010 | 00000001 | 00010000
 
 ```
 
