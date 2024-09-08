@@ -11,7 +11,7 @@ const HIDDEN: &str = "\x1b[8m";
 
 const ALL_STYLES: [&str; 6] = [RESET, BOLD, ITALIC, UNDERLINE, STRIKETHROUGH, HIDDEN];
 // Less clearer but less code
-//const ALL_STYLES1: [&str; 6] = ["\x1b[0m", "\x1b[1m", "\x1b[3m", "\x1b[4m", "\x1b[9m", "\x1b[8m"];
+//const ALL_STYLES: [&str; 6] = ["\x1b[0m", "\x1b[1m", "\x1b[3m", "\x1b[4m", "\x1b[9m", "\x1b[8m"];
 
 #[derive(Clone, Copy)]
 pub struct Styles(u8);
