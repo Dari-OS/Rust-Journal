@@ -1,6 +1,6 @@
 # Rust Journal
 
-This journal has a growing collection of magic code and patterns that I found during my journey of mastering Rust
+This journal has a growing collection of magic code and patterns that I found during my journey of learning Rust
 
 > [!NOTE]
 > This project is inspired by the GitHub repo [Rust Magic Pattern](https://github.com/alexpusch/rust-magic-patterns/).  
@@ -17,7 +17,7 @@ But Bitflags help to handle that scenario in a very simple (from the user perspe
 
 One of **my favourite coding patters** are **State Machines**.  
 But not just any State Machine.
-You can implement the State Machine pattern in Rust in such away to have **compile time checks at state transitions**.
+You can implement the State Machine pattern in Rust in such a way to have **compile time checks at state transitions**.
 
 > Sounds **interesting** huh?
 
