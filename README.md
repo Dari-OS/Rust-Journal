@@ -21,8 +21,16 @@ You can implement the State Machine pattern in Rust in such a way to have **comp
 
 > Sounds **interesting** huh?
 
+## [Super Type States](type-driven-rust/Readme.md)
+
+One of **the most powerful architectural patterns** in Rust is the **Super Typestate**.  
+But it goes way beyond just state transitions.
+You can use traits and Zero-Sized Types to dynamically morph a struct's **data fields and behavior entirely at compile time**.
+
+> Ready to write **foolproof** APIs?
+
 ## [Accepting closure and other thing at the same time!](accepting-closures-and-other-things/Readme.md)
 
-> You may wonder if this is possible?
-
 I found an **amazing design pattern** in the populare crate **[Notify](https://github.com/notify-rs/notify/)**. It allows a function to accept a closure and a Channel Sender _(just an example)_ at the same time!
+
+> You may wonder if this is possible?
